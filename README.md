@@ -94,4 +94,4 @@ The front-end of the Simple Blog Application is built using React and Material-U
 ### Cloning the Repository
 To clone the repository, run the following command in your terminal:
 ```bash
-git clone git remote add origin https://github.com/Soujanyamahadevu/EmployeClient.git
+git clone git remote add origin https://github.com/Soujanyamahadevu/Client

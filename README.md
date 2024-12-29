@@ -68,3 +68,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Simple Blog Application - Frontend
+
+## Project Overview
+
+The front-end of the Simple Blog Application is built using React and Material-UI (MUI). It provides a user-friendly interface for users to manage their blog posts and profiles. The application is fully responsive and works seamlessly on both mobile and desktop devices.
+
+### Features:
+- **User  Management:**
+  - Sign Up: Users can register with an email, username, and password.
+  - Login: Users can log in using their email/username and password.
+  - Profile Management: Users can update their profile information.
+
+- **Blog Post Management:**
+  - Create Post: Logged-in users can create blog posts with images, titles, and rich text content.
+  - View Posts: Users can view a list of all posts with pagination.
+  - View Single Post: Users can view the details of a specific blog post.
+  - Update Post: Users can edit their own blog posts.
+  - Delete Post: Users can delete their own blog posts.
+
+## Setup Instructions
+
+### Cloning the Repository
+To clone the repository, run the following command in your terminal:
+```bash
+git clone git remote add origin https://github.com/Soujanyamahadevu/EmployeClient.git

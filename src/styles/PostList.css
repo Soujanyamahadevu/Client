@@ -1,0 +1,52 @@
+/* PostList.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .post-list {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .post-list h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .post-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .post-list li {
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+    transition: background-color 0.3s;
+  }
+  
+  .post-list li:last-child {
+    border-bottom: none; /* Remove border from the last item */
+  }
+  
+  .post-list li:hover {
+    background-color: #f9f9f9; /* Light background on hover */
+  }
+  
+  .post-list h3 {
+    margin: 0;
+    color: #007bff;
+  }
+  
+  .post-list p {
+    margin: 5px 0 0;
+    color: #555;
+  }
